@@ -14,7 +14,7 @@
     embarcándome en el emocionante viaje de aprender ciencia de datos para expandir mis horizontes tecnológicos. </p>
 <h2 align="center">🛠️ Mis Habilidades</h2>
 <p align="center"> <img
-        src="https://skillicons.dev/icons?i=html,css,js,php,python,cpp,arduino,raspberrypi,react,nextjs,mongodb,mysql,aws&perline=7" />
+        src="https://skillicons.dev/icons?i=html,css,js,php,python,cpp,arduino,raspberrypi,react,nextjs,vue,mongodb,mysql,aws&perline=7" />
 </p>
 <h2 align="center">🔧 Tecnologías que estoy aprendiendo</h2>
 <p align="center"> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,azure,jupyter&perline=4" /> </p>
