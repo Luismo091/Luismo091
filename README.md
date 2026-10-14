@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FD1&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Integraci%C3%B3n+de+IA+y+agentes+aut%C3%B3nomos;Ingeniero+de+sistemas+rumbo+a+IA+aplicada;Infraestructura+self-hosted+en+Raspberry+Pi" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luismo091&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Visitas" />
-</p>
-
 <h2 align="center">🚀 Sobre mí</h2>
 
 <p align="center">
@@ -22,11 +18,16 @@
 <h2 align="center">🏗️ Proyectos destacados</h2>
 
 <ul>
+  <li>⚽ <b>GoClub!</b>: app web, Android e iOS para escuelas deportivas con gestión integral del club: deportistas, cobros y pagos en línea.</li>
+  <li>🍽️ <b>MESEO</b>: sistema completo para restaurantes. Incluye un sistema web de comandas y una app Android para toma de pedidos en tablets.</li>
+  <li>🌐 <b>Oklahoma Mayorista de Tecnología</b>: creé su sitio web corporativo.</li>
+  <li>🏗️ <b>Gestión operativa de equipos de construcción</b>: app web en Python para controlar equipos de obra y sus préstamos.</li>
   <li>🏠 <b>Avalcaribe</b>: plataforma de avalúos inmobiliarios con IA para peritos en Colombia. Pipeline multi-nodo en <b>LangGraph + Python + Docker</b>, arquitectura de modelos dividida (visión / texto), controles anti-alucinación sobre el valor final y generación automática de informes en DOCX. Optimizada para mantener un costo por avalúo muy bajo.</li>
   <li>🖥️ <b>Infraestructura self-hosted</b>: Raspberry Pi 5 con Coolify, Gitea, n8n, Paperless-ngx, Vaultwarden y acceso remoto con Tailscale; experimentando con inferencia local de modelos (Ollama / llama.cpp).</li>
   <li>🛠️ <b>App de gestión de mantenimiento</b>: control de servicios con generación de órdenes de servicio en PDF (PHP + mPDF).</li>
   <li>🎨 <b>Refactor de UI</b>: migración de una app web fuera de PrimeVue e Ionic hacia CSS propio, buscando menos dependencias y más mantenibilidad.</li>
-  <li>⚽ <b>Soluciones para escuelas de fútbol</b>: diseño, redes sociales y aplicación de pagos mensuales.</li>
+  <li>🎨 <b>Soluciones para escuelas de fútbol</b>: diseño, redes sociales y control de pagos mensuales.</li>
+  <li>🌍 <b>Open Source</b>: también publico y contribuyo en proyectos abiertos; encuentras varios en mis <a href="https://github.com/Luismo091?tab=repositories">repositorios</a>.</li>
   <li>🏅 <a href="https://github.com/Luismo091/RFIDPLAY">RFIDPLAY</a>: gestión y seguimiento de eventos deportivos con autenticación RFID.</li>
   <li>📊 <a href="https://github.com/Luismo091/.csv-iewer">.csv-viewer</a>: análisis de archivos CSV con gráficos y análisis descriptivo asistido por IA.</li>
 </ul>
@@ -66,6 +67,12 @@
   <li>Inferencia local de modelos en hardware propio.</li>
   <li>Posgrado en IA (programas virtuales en Colombia).</li>
 </ul>
+
+<h2 align="center">🎮 Fuera del código</h2>
+
+<p align="center">
+  Fan de <b>Nintendo</b> de toda la vida. Si quieres hablar de Zelda, Mario o de cómo llevar un backend a producción, escríbeme.
+</p>
 
 <h2 align="center">📊 Estadísticas de GitHub</h2>
 
